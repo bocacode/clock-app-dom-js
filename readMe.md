@@ -1,5 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jarue1&repo=clock&show_icons=true&include_all_commits=true)](https://github.com/jarue1/clock)
-
 ## Clock
 
 This projects main purpose is to show you how to work with javaScripts built in methods
