@@ -1,0 +1,26 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jarue1&repo=clock&show_icons=true&include_all_commits=true)](https://github.com/jarue1/clock)
+
+## Clock
+
+This projects main purpose is to show you how to work with javaScripts built in methods
+
+### Project Setup
+
+```
+1. clone repo
+2. review acceptance criteria
+3. start coding !
+```
+
+### Acceptance Criteria
+
+1. No third party library's
+2. Create a clock that is synced with the current time
+   - should have hour, minutes and seconds
+3. The clocks arms should move in accordance with the time
+
+#### Helpful links
+
+[JavaScript Date()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+
+[Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
