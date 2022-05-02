@@ -1,3 +1,5 @@
+![Users Endpoints](./images/clock.mov)
+
 ## Clock
 
 This projects main purpose is to show you how to work with javaScripts built in methods
