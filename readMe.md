@@ -1,4 +1,4 @@
-![Users Endpoints](./images/clock.mov)
+<!-- ![Movie](./images/clock.mov) -->
 
 ## Clock
 
