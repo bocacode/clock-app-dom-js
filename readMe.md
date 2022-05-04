@@ -6,8 +6,9 @@ This projects main purpose is to show you how to work with javaScripts built in 
 
 ```
 1. clone repo
-2. review acceptance criteria
-3. start coding !
+2. install live server extension 
+3. review acceptance criteria
+4. start coding !
 ```
 
 ### Acceptance Criteria
