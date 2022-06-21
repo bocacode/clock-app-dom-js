@@ -1,5 +1,6 @@
 ## Clock
 
+![](./screenshot.png)
 This projects main purpose is to show you how to work with javaScripts built in methods
 
 ### Project Setup
